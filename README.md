@@ -1,4 +1,4 @@
 # Module-2-Challenge 
 
 Hello there
-atached is VB script modules and screen shots 
+the following is VB script Modules and screen shots 
