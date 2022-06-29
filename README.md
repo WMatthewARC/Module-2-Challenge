@@ -5,4 +5,4 @@ Hello there...
   
   Bonuses have been done as well.
   
-  >>>> Look of for the message box that will let you know when the module is ran<<<
+~~~ Look of for the message box that will let you know when the module is ran
