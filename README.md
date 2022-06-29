@@ -6,4 +6,4 @@ Hello there...
   Bonuses have been done as well.
 
 
-  Look out for the message box that will let you know when the module "Look stock" as been ran.
+  Look out for the message box that will let you know when the module "Loop stock" as been ran.
